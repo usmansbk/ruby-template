@@ -1,6 +1,6 @@
-# Project Title
+# Enumerable
 
-Add a a project description
+> A subset of the Enumerable module
 
 ## Built With
 
