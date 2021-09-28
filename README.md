@@ -1,6 +1,6 @@
-# Enumerable
+# Project Title
 
-> A subset of the Enumerable module
+Add a a project description
 
 ## Built With
 
@@ -23,7 +23,7 @@ To get a local copy up and running follow these simple example steps.
 ### Run
 
 ```rb
-irb main.rb
+irb main_file.rb
 ```
 
 ## Authors
@@ -33,6 +33,12 @@ irb main.rb
 - GitHub: [@usmansbk](https://github.com/usmansbk)
 - Twitter: [@usmansbk](https://twitter.com/usmansbk)
 - LinkedIn: [Usman Suleiman Babakolo](https://linkedin.com/in/usmansbk)
+
+👤 **Tolib**
+
+- GitHub: [@toliboff](https://github.com/toliboff)
+- Twitter: [@toliboff](https://twitter.com/toliboff)
+- LinkedIn: [Tolibjon Tolibov](https://linkedin.com/in/toliboff)
 
 ## 🤝 Contributing
 
